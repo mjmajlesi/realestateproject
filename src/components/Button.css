@@ -1,0 +1,7 @@
+.buttun{
+    transition: all 300ms ease-in;
+}
+.buttun:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+}
